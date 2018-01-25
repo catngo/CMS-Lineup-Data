@@ -1,0 +1,10 @@
+player 1,player 2,player 3,player 4,player 5,minutes,plus-minus,points scored,offensive possession,turnovers,offensive rebounds,defensive rebounds given,2-pt made,2-pt missed,3-pt made,3-pt missed,assists,free-throw attempt,points givens,defensive possession,turnovers forced,offensive rebounds given,defensive rebounds,2-pt made given,2-pt missed given,3-pt made given,3-pt missed given,assists given,free-throw attempt given
+"DAVIS,EVAN","ELY,JACK","HALL,RILEY","MORRIS,KENDRICK","SCARLETT,MICHAEL",00:03:25,6,8,5,0,1,1,3,1,0,1,2,2,2,5,0,1,4,1,5,0,0,0,0
+"DAVIS,EVAN","HALL,RILEY","KUSCH,RYAN","MORRIS,KENDRICK","PRESIDENT,MILES",00:02:14,-5,0,2,1,0,1,0,0,0,1,0,0,5,3,0,1,1,1,2,1,0,1,0
+"DAVIS,EVAN","HALL,RILEY","MORRIS,KENDRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:00:16,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ELY,JACK","HALL,RILEY","MORRIS,KENDRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:24:48,4,43,38,7,6,11,13,13,3,3,7,12,39,37,4,6,14,13,13,1,6,10,12
+"ELY,JACK","HALL,RILEY","MYERS,PATRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:06:37,2,9,14,7,0,2,3,1,0,0,1,4,7,9,3,0,4,3,2,0,2,2,3
+"ELY,JACK","KIRSCH,MAXWELL","MORRIS,KENDRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:03:27,2,4,5,2,1,1,2,2,0,0,0,0,2,5,2,0,2,1,1,0,1,0,0
+"ELY,JACK","KIRSCH,MAXWELL","MYERS,PATRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:02:14,-7,0,2,0,0,2,0,2,0,0,0,0,7,5,1,0,1,2,0,0,0,1,4
+"KIRSCH,MAXWELL","KUSCH,RYAN","MORRIS,KENDRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:00:34,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+"KIRSCH,MAXWELL","KUSCH,RYAN","MYERS,PATRICK","PRESIDENT,MILES","SCARLETT,MICHAEL",00:01:25,0,4,3,1,0,0,1,0,0,0,1,2,4,2,0,0,0,2,0,0,0,2,0

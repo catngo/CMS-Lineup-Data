@@ -4,6 +4,30 @@ STARTERS = (("PRESIDENT,MILES","SCARLETT,MICHAEL","HALL,RILEY","LYNDS,SCOTT","MO
 
 heading = ["player 1","player 2","player 3","player 4","player 5","minutes","plus-minus","points scored","offensive possession","turnovers","offensive rebounds","defensive rebounds given","2-pt made","2-pt missed","3-pt made","3-pt missed","assists","free-throw attempt","points givens","defensive possession","turnovers forced","offensive rebounds given","defensive rebounds","2-pt made given","2-pt missed given","3-pt made given","3-pt missed given","assists given","free-throw attempt given"]
 
+heading1 = ["player","minutes","plus-minus","points scored","offensive possession","turnovers","offensive rebounds","defensive rebounds given","2-pt made","2-pt missed","3-pt made","3-pt missed","assists","free-throw attempt","points givens","defensive possession","turnovers forced","offensive rebounds given","defensive rebounds","2-pt made given","2-pt missed given","3-pt made given","3-pt missed given","assists given","free-throw attempt given"]
+
+heading2 = ["player 1", "player 2","minutes","plus-minus","points scored","offensive possession","turnovers","offensive rebounds","defensive rebounds given","2-pt made","2-pt missed","3-pt made","3-pt missed","assists","free-throw attempt","points givens","defensive possession","turnovers forced","offensive rebounds given","defensive rebounds","2-pt made given","2-pt missed given","3-pt made given","3-pt missed given","assists given","free-throw attempt given"]
+
+heading3 = ["player 1", "player 2", "player 3","minutes","plus-minus","points scored","offensive possession","turnovers","offensive rebounds","defensive rebounds given","2-pt made","2-pt missed","3-pt made","3-pt missed","assists","free-throw attempt","points givens","defensive possession","turnovers forced","offensive rebounds given","defensive rebounds","2-pt made given","2-pt missed given","3-pt made given","3-pt missed given","assists given","free-throw attempt given"]
+
+PLAYERS = ('DAVIS,EVAN',
+ 'HALL,RILEY',
+ 'KUSCH,RYAN',
+ 'MYERS,PATRICK',
+ 'PRESIDENT,MILES',
+ 'HORN,JEREMY',
+ 'SCARLETT,MICHAEL',
+ 'ELY,JACK',
+ 'LYNDS,SCOTT',
+ 'MORRIS,KENDRICK',
+ 'LEVINE,JD',
+ 'KIRSCH,MAXWELL',
+ 'MADDOCK,ANDREW',
+ 'SUI,MARK',
+ 'GARVIN,SAM',
+ 'MKPADO,KELE',
+ 'WALKER,GEORGE',
+ 'KEINAN,DANIEL')
 
 # Davis sub out Lynds on 2/4 (index 8) for HOME URLs. 1/28 (index 7) for Away URLs.
 # Ely sub out Davis on 2/18 (index 12) for home URLs. 2/20 (index 10) for Away URLs.

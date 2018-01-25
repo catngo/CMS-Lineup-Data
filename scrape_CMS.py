@@ -178,9 +178,10 @@ def analyze(L,starters,team): #made for CMS home game
     while index < len(L):
         play = L[index]
         if sorted(lineup) == sorted(line):
+            print(lineup)
             print(play)
-            print(d[str(sorted(lineup))])
-            print("\n")
+            # print(d[str(sorted(lineup))])
+            # print("\n")
         # if abs(op-dp) >= 2:
         #     randomshit += [[L[index-1],op,dp]]
         if index == 0:
@@ -295,9 +296,9 @@ def analyze(L,starters,team): #made for CMS home game
             elif "goes" in play:
                 i = play.index("goes")
                 player = play[i-1]
-                # print(play)
-                # print(player)
-                # print(lineup)
+                print(play)
+                print(player)
+                print(lineup)
                 lineup.remove(player)
                 # print(lineup)
                 # print("\n")
@@ -514,7 +515,7 @@ def scrapeHome():
         od = collections.OrderedDict(sorted(d.items()))
         np.save('AllHome.npy',od)
         dictcsv(od,"AllHome.csv")
-    return L
+    return BigList
 
 badPlays = ["01-28-2017.npy"]
 
@@ -574,6 +575,7 @@ def updateCombined():
     with address("/Users/CatNgo/Dropbox/CMS/Home"):
         dicthome = np.load('AllHome.npy').item()
     d = combinedict(dictaway,dicthome)
+    np.save("Combined.npy",d)
     dictcsv(d,"Combined.csv")
 
-#For away games, game 0,1,3,6,7 are broken. Game 0 cannot be fixed. Game 6 and 7 are fixed.
+#For away games, game 0,1,3,6,7 are broken. Game 0 cannot be fixed. Game 3, 6 and 7 are fixed. (Game 1 is not necessary anymore, because we're scraping from December till end of season`)
