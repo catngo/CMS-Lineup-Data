@@ -1,1 +1,3 @@
-# Sports_Analytics
+# Lineup Data for CMS Men's Basketball
+
+From play by play logs on CMS website, I scraped the lineup data and ...
